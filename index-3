@@ -1,0 +1,1315 @@
+<html>
+
+<head>
+	<title>Kipso | Home 3</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,500i,600,700,800%7CSatisfy&amp;display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="/assets/plugins/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/css/animate.min.css">
+	<link rel="stylesheet" href="/assets/plugins/fontawesome-free-5.11.2-web/css/all.min.css">
+	<link rel="stylesheet" href="/assets/plugins/kipso-icons/style.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+	<link rel="stylesheet" href="/assets/css/responsive.css">
+	<meta name="next-head-count" content="14">
+	<link rel="preload" href="/_next/static/css/styles.b100dd23.chunk.css" as="style">
+	<link rel="stylesheet" href="/_next/static/css/styles.b100dd23.chunk.css">
+	<link rel="preload" href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index.js" as="script">
+	<link rel="preload" href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/_app.js" as="script">
+	<link rel="preload" href="/_next/static/runtime/webpack-9369c5c69dbf6d4912cb.js" as="script">
+	<link rel="preload" href="/_next/static/chunks/framework.2689030919a9ba0449ff.js" as="script">
+	<link rel="preload" href="/_next/static/chunks/commons.ceaf506e42eea69867d7.js" as="script">
+	<link rel="preload" href="/_next/static/chunks/styles.6b75174053ded839d11d.js" as="script">
+	<link rel="preload" href="/_next/static/runtime/main-2b7f201882d40b0ce780.js" as="script">
+	<link rel="preload" href="/_next/static/chunks/a4c92b5b.b8b875e49990b13703a5.js" as="script">
+	<link rel="preload" href="/_next/static/chunks/ff73939d68d7e79f1e0f3ade21d95dd400a3a1cc.04a8c86fb488fd8e6f0d.js"
+		as="script">
+	<link rel="preload" href="/_next/static/chunks/08afed86d3fa7bd4ded233c88b82f6c63c41e408.cb0e017598de4268103f.js"
+		as="script">
+	<link rel="preload" href="/_next/static/chunks/b788f745097c13fe0fb56597fa921221422fea68.b0884a161c5426e4babd.js"
+		as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index-2.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index-3.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/about.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/gallery.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/pricing.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/faq.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/courses.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/course-details.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/teachers.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/teacher-details.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/become-teacher.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/news.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/news-details.js" rel="prefetch" as="script">
+	<link href="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/contact.js" rel="prefetch" as="script">
+	<link href="/_next/static/chunks/a4c92b5b.b8b875e49990b13703a5.js" rel="prefetch" as="script">
+	<link href="/_next/static/chunks/ff73939d68d7e79f1e0f3ade21d95dd400a3a1cc.04a8c86fb488fd8e6f0d.js" rel="prefetch"
+		as="script">
+	<link href="/_next/static/chunks/08afed86d3fa7bd4ded233c88b82f6c63c41e408.cb0e017598de4268103f.js" rel="prefetch"
+		as="script">
+	<link href="/_next/static/chunks/b788f745097c13fe0fb56597fa921221422fea68.b0884a161c5426e4babd.js" rel="prefetch"
+		as="script">
+</head>
+
+<body>
+	<div id="__next">
+		<div>
+			<div class="page-wrapper">
+				<header class="site-header site-header__home-three ">
+					<div class="topbar-one">
+						<div class="container">
+							<div class="topbar-one__left"><a href="#">needhelp@kipso.com</a><a href="#">444 888 0000</a>
+							</div>
+							<div class="topbar-one__right"><a href="#">Login</a><a href="#">Register</a></div>
+						</div>
+					</div>
+					<nav
+						class="navbar navbar-expand-lg navbar-light header-navigation stricky stricked-menu stricky-fixed">
+						<div class="container clearfix">
+							<div class="logo-box clearfix"><a class="navbar-brand" href="/"><img
+										src="assets/images/logo-light.png" class="main-logo" width="128"
+										alt="Awesome Image"></a><button class="menu-toggler"
+									data-target=".main-navigation"><span class="kipso-icon-menu"></span></button></div>
+							<div class="main-navigation">
+								<ul class=" navigation-box">
+									<li class="current"><a href="/">Home</a>
+										<ul class="sub-menu">
+											<li><a href="/">Home 01</a></li>
+											<li><a href="/index-2">Home 02</a></li>
+											<li><a href="/index-3">Home 03</a></li>
+											<li><a href="#">Header Versions</a>
+												<ul class="sub-menu">
+													<li><a href="/">Header 01</a></li>
+													<li><a href="/index-2">Header 02</a></li>
+													<li><a href="/index-3">Header 03</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<li><a href="#">Pages</a>
+										<ul class="sub-menu">
+											<li><a href="/about">About Page</a></li>
+											<li><a href="/gallery">Gallery</a></li>
+											<li><a href="/pricing">Pricing Plans</a></li>
+											<li><a href="/faq">FAQ'S</a></li>
+										</ul>
+									</li>
+									<li><a href="courses.html">Courses</a>
+										<ul class="sub-menu">
+											<li><a href="/courses">Courses</a></li>
+											<li><a href="/course-details">Courses Details</a></li>
+										</ul>
+									</li>
+									<li><a href="teachers.html">Teachers</a>
+										<ul class="sub-menu">
+											<li><a href="/teachers">Teachers</a></li>
+											<li><a href="/teacher-details">Teachers Details</a></li>
+											<li><a href="/become-teacher">Become Teacher</a></li>
+										</ul>
+									</li>
+									<li><a href="news.html">News</a>
+										<ul class="sub-menu">
+											<li><a href="/news">News Page</a></li>
+											<li><a href="/news-details">News Details</a></li>
+										</ul>
+									</li>
+									<li><a href="/contact">Contact</a></li>
+								</ul>
+							</div>
+							<div class="right-side-box">
+								<div class="header__social"><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i
+											class="fab fa-facebook-square"></i></a><a href="#"><i
+											class="fab fa-pinterest-p"></i></a><a href="#"><i
+											class="fab fa-instagram"></i></a></div>
+							</div>
+						</div>
+					</nav>
+				</header>
+				<div class="banner-wrapper">
+					<section class="banner-one banner-carousel__one no-dots">
+						<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+							<div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+								<div class="swiper-slide banner-one__slide banner-one__slide-one swiper-slide-active"
+									style="width: 1903px;">
+									<div class="container">
+										<div class="banner-one__bubble-1"></div>
+										<div class="banner-one__bubble-2"></div>
+										<div class="banner-one__bubble-3"></div><img
+											src="/assets/images/slider-1-scratch.png" alt=""
+											class="banner-one__scratch"><img src="/assets/images/slider-1-person-1.png"
+											class="banner-one__person" alt="">
+										<div class="row no-gutters">
+											<div class="col-xl-12">
+												<h3 class="banner-one__title banner-one__light-color">We Can <br>Teach
+													You</h3>
+												<p class="banner-one__tag-line">are you ready to learn?</p><a href="#"
+													class="thm-btn banner-one__btn">Learn More</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="swiper-slide banner-one__slide banner-one__slide-two swiper-slide-next"
+									style="width: 1903px;">
+									<div class="container">
+										<div class="banner-one__bubble-1"></div>
+										<div class="banner-one__bubble-2"></div>
+										<div class="banner-one__bubble-3"></div><img
+											src="/assets/images/slider-1-scratch.png" alt=""
+											class="banner-one__scratch"><img src="/assets/images/slider-1-person-2.png"
+											class="banner-one__person" alt="">
+										<div class="row no-gutters">
+											<div class="col-xl-12">
+												<h3 class="banner-one__title banner-one__light-color">We Can <br>Teach
+													You</h3>
+												<p class="banner-one__tag-line">are you ready to learn?</p><a href="#"
+													class="thm-btn banner-one__btn">Learn More</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+						</div>
+					</section>
+					<div class="banner-carousel-btn">
+						<div class="banner-carousel-btn__left-btn banner-arrow"><i class="kipso-icon-left-arrow"></i>
+						</div>
+						<div class="banner-carousel-btn__right-btn banner-arrow"><i class="kipso-icon-right-arrow"></i>
+						</div>
+					</div>
+					<div class="banner-one__cta">
+						<div class="banner-one__cta-icon"><i
+								class="kipso-icon-black-graduation-cap-tool-of-university-student-for-head"></i></div>
+						<div class="banner-one__cta-title">
+							<h3 class="banner-one__cta-text"><a href="#">Read how we encourage our students to learn</a>
+							</h3>
+						</div>
+						<div class="banner-one__cta-link"><a href="#"><i class="kipso-icon-right-arrow"></i></a></div>
+					</div>
+				</div>
+				<section class="course-category-three"><img src="/assets/images/circle-stripe.png"
+						class="course-category-three__circle" alt="">
+					<div class="container">
+						<div class="block-title">
+							<h2 class="block-title__title">Browse online <br>course categories</h2>
+						</div>
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-sm-12">
+								<div class="course-category-three__single"><img
+										src="/assets/images/course-category-1-1.png" alt="">
+									<div class="course-category-three__content">
+										<h3 class="course-category-three__title"><a href="#">IT &amp; Software </a></h3>
+										<p class="course-category-three__text">Over 752 Courses</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-12">
+								<div class="course-category-three__single"><img
+										src="/assets/images/course-category-1-2.png" alt="">
+									<div class="course-category-three__content">
+										<h3 class="course-category-three__title"><a href="#">Development </a></h3>
+										<p class="course-category-three__text">Over 752 Courses</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-12">
+								<div class="course-category-three__single"><img
+										src="/assets/images/course-category-1-3.png" alt="">
+									<div class="course-category-three__content">
+										<h3 class="course-category-three__title"><a href="#">Photography</a></h3>
+										<p class="course-category-three__text">Over 752 Courses</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-12">
+								<div class="course-category-three__single"><img
+										src="/assets/images/course-category-1-4.png" alt="">
+									<div class="course-category-three__content">
+										<h3 class="course-category-three__title"><a href="#">Marketing</a></h3>
+										<p class="course-category-three__text">Over 752 Courses</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="text-center"><a href="#" class="thm-btn course-category-three__more-link">View All
+								Categories</a></div>
+					</div>
+				</section>
+				<section class="cta-one cta-one__home-one"
+					style="background-image: url(&quot;assets/images/cta-bg-1-1.jpg&quot;);">
+					<div class="container">
+						<h2 class="cta-one__title">Kipso one &amp; only <br>mission is to extend <br>your knowledge base
+						</h2>
+						<div class="cta-one__btn-block"><a href="#" class="thm-btn cta-one__btn">Learn More</a></div>
+					</div>
+				</section>
+				<section class="team-tab">
+					<div class="container">
+						<div class="tab-content">
+							<div class="tab-pane show active  animated fadeInUp" role="tabpanel" id="overview">
+								<div class="row">
+									<div class="col-lg-6 d-flex">
+										<div class="my-auto">
+											<div class="team-tab__content">
+												<div class="team-tab__top">
+													<div class="team-tab__left">
+														<h2 class="team-tab__title">Christine Eve </h2>
+														<p class="team-tab__designation">Language Expert</p>
+													</div>
+													<div class="team-tab__right">
+														<div class="team-tab__social"><a href="#"><i
+																	class="fab fa-twitter"></i></a><a href="#"><i
+																	class="fab fa-facebook-square"></i></a><a
+																href="#"><i class="fab fa-pinterest-p"></i></a><a
+																href="#"><i class="fab fa-instagram"></i></a></div>
+													</div>
+												</div>
+												<p class="team-tab__text">There cursus massa at urnaaculis estie. Sed
+													aliquamellus vitae ultrs condmentum leo massa mollis estiegittis
+													miristum nulla sed medy fringilla vitae.</p>
+												<div class="progress-one__wrap">
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">English</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">98</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 98%;"></span></div>
+													</div>
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">French</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">64</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 64%;"></span></div>
+													</div>
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">Spanish</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">34</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 34%;"></span></div>
+													</div>
+												</div><a href="#" class="thm-btn team-tab__btn">Learn More</a>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6"><img src="/assets/images/teacher-h3-1-1.jpg" alt=""></div>
+								</div>
+							</div>
+							<div class="tab-pane  animated fadeInUp" role="tabpanel" id="curriculum">
+								<div class="row">
+									<div class="col-lg-6 d-flex">
+										<div class="my-auto">
+											<div class="team-tab__content">
+												<div class="team-tab__top">
+													<div class="team-tab__left">
+														<h2 class="team-tab__title">Catherine Hopkins</h2>
+														<p class="team-tab__designation">Language Expert</p>
+													</div>
+													<div class="team-tab__right">
+														<div class="team-tab__social"><a href="#"><i
+																	class="fab fa-twitter"></i></a><a href="#"><i
+																	class="fab fa-facebook-square"></i></a><a
+																href="#"><i class="fab fa-pinterest-p"></i></a><a
+																href="#"><i class="fab fa-instagram"></i></a></div>
+													</div>
+												</div>
+												<p class="team-tab__text">There cursus massa at urnaaculis estie. Sed
+													aliquamellus vitae ultrs condmentum leo massa mollis estiegittis
+													miristum nulla sed medy fringilla vitae.</p>
+												<div class="progress-one__wrap">
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">English</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">98</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 98%;"></span></div>
+													</div>
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">French</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">64</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 64%;"></span></div>
+													</div>
+													<div class="progress-one__single">
+														<div class="progress-one__top">
+															<h3 class="progress-one__title">Spanish</h3>
+															<h3 class="progress-one__percent"><span
+																	class="counter">34</span>%</h3>
+														</div>
+														<div class="progress-one__bar"><span class="wow slideInLeft"
+																style="width: 34%;"></span></div>
+													</div>
+												</div><a href="#" class="thm-btn team-tab__btn">Learn More</a>
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-6"><img src="/assets/images/teacher-h3-1-2.jpg" alt=""></div>
+								</div>
+							</div>
+						</div>
+						<ul class="team-tab__tab-navs list-unstyled nav nav-tabs" role="tablist">
+							<li><a class="active" role="tab" data-toggle="tab" href="#overview"><img
+										src="/assets/images/team-1-1.jpg" alt=""></a></li>
+							<li><a class="" role="tab" data-toggle="tab" href="#curriculum"><img
+										src="/assets/images/team-1-2.jpg" alt=""></a></li>
+						</ul>
+					</div>
+				</section>
+				<div>
+					<section class="course-one__top-title home-three">
+						<div class="container">
+							<div class="block-title">
+								<h2 class="block-title__title">Explore our <br>popular courses</h2>
+							</div>
+						</div>
+					</section>
+					<section class="course-one course-one__teacher-details home-three">
+						<div class="container">
+							<div class="course-one__carousel">
+								<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+									<div class="swiper-wrapper"
+										style="transform: translate3d(-1600px, 0px, 0px); transition-duration: 0ms;">
+										<div class="swiper-slide item swiper-slide-duplicate"
+											data-swiper-slide-index="6" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-1">
+												<div class="course-one__image"><img src="/assets/images/course-1-1.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">development</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-1.jpg" alt="">by <a
+															href="/teacher-details">Lou Guerrero</a></div>
+													<h2 class="course-one__title"><a href="/course-details">New react
+															bootcamp</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-duplicate"
+											data-swiper-slide-index="7" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-2">
+												<div class="course-one__image"><img src="/assets/images/course-1-2.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">It &amp; Software</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-2.jpg" alt="">by <a
+															href="/teacher-details">Cora Diaz</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Improve
+															editing skills</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-duplicate"
+											data-swiper-slide-index="8" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-3">
+												<div class="course-one__image"><img src="/assets/images/course-1-3.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">marketing</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-3.jpg" alt="">by <a
+															href="/teacher-details">Ruth Becker</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Marketing
+															strategies</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-prev" data-swiper-slide-index="0"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-1">
+												<div class="course-one__image"><img src="/assets/images/course-1-1.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">development</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-1.jpg" alt="">by <a
+															href="/teacher-details">Lou Guerrero</a></div>
+													<h2 class="course-one__title"><a href="/course-details">New react
+															bootcamp</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-active" data-swiper-slide-index="1"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-2">
+												<div class="course-one__image"><img src="/assets/images/course-1-2.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">It &amp; Software</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-2.jpg" alt="">by <a
+															href="/teacher-details">Cora Diaz</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Improve
+															editing skills</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-next" data-swiper-slide-index="2"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-3">
+												<div class="course-one__image"><img src="/assets/images/course-1-3.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">marketing</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-3.jpg" alt="">by <a
+															href="/teacher-details">Ernest Rodriquez</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Basics of
+															photography</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="3"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-4">
+												<div class="course-one__image"><img src="/assets/images/course-1-4.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">Photography</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-4.jpg" alt="">by <a
+															href="/teacher-details">Katherine Collins</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Healthy
+															workout tips</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="4"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-5">
+												<div class="course-one__image"><img src="/assets/images/course-1-5.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">marketing</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-5.jpg" alt="">by <a
+															href="/teacher-details">Isabella Stanley</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Affiliate
+															bootcamp</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="5"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-6">
+												<div class="course-one__image"><img src="/assets/images/course-1-6.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">Health &amp; Fitness</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-6.jpg" alt="">by <a
+															href="/teacher-details">Katherine Collins</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Healthy
+															workout tips</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="6"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-1">
+												<div class="course-one__image"><img src="/assets/images/course-1-1.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">development</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-1.jpg" alt="">by <a
+															href="/teacher-details">Lou Guerrero</a></div>
+													<h2 class="course-one__title"><a href="/course-details">New react
+															bootcamp</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="7"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-2">
+												<div class="course-one__image"><img src="/assets/images/course-1-2.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">It &amp; Software</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-2.jpg" alt="">by <a
+															href="/teacher-details">Cora Diaz</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Improve
+															editing skills</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item" data-swiper-slide-index="8"
+											style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-3">
+												<div class="course-one__image"><img src="/assets/images/course-1-3.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">marketing</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-3.jpg" alt="">by <a
+															href="/teacher-details">Ruth Becker</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Marketing
+															strategies</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-prev"
+											data-swiper-slide-index="0" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-1">
+												<div class="course-one__image"><img src="/assets/images/course-1-1.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">development</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-1.jpg" alt="">by <a
+															href="/teacher-details">Lou Guerrero</a></div>
+													<h2 class="course-one__title"><a href="/course-details">New react
+															bootcamp</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-active"
+											data-swiper-slide-index="1" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-2">
+												<div class="course-one__image"><img src="/assets/images/course-1-2.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">It &amp; Software</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-2.jpg" alt="">by <a
+															href="/teacher-details">Cora Diaz</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Improve
+															editing skills</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+										<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-next"
+											data-swiper-slide-index="2" style="width: 370px; margin-right: 30px;">
+											<div class="course-one__single color-3">
+												<div class="course-one__image"><img src="/assets/images/course-1-3.jpg"
+														alt=""><i class="far fa-heart"></i></div>
+												<div class="course-one__content"><a href="#"
+														class="course-one__category">marketing</a>
+													<div class="course-one__admin"><img
+															src="/assets/images/team-1-3.jpg" alt="">by <a
+															href="/teacher-details">Ernest Rodriquez</a></div>
+													<h2 class="course-one__title"><a href="/course-details">Basics of
+															photography</a></h2>
+													<div class="course-one__stars"><span
+															class="course-one__stars-wrap"><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i class="fa fa-star"></i><i
+																class="fa fa-star"></i><i
+																class="fa fa-star"></i></span><span
+															class="course-one__count">4.8</span><span
+															class="course-one__stars-count">250</span></div>
+													<div class="course-one__meta"><a href="/course-details"><i
+																class="far fa-clock"></i> 10 Hours</a><a
+															href="/course-details"><i class="far fa-folder-open"></i> 6
+															Lectures</a><a href="/course-details">$18</a></div><a
+														href="#" class="course-one__link">See Preview</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div
+										class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
+										<span class="swiper-pagination-bullet" tabindex="0" role="button"
+											aria-label="Go to slide 1"></span><span
+											class="swiper-pagination-bullet swiper-pagination-bullet-active"
+											tabindex="0" role="button" aria-label="Go to slide 2"></span><span
+											class="swiper-pagination-bullet" tabindex="0" role="button"
+											aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet"
+											tabindex="0" role="button" aria-label="Go to slide 4"></span><span
+											class="swiper-pagination-bullet" tabindex="0" role="button"
+											aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet"
+											tabindex="0" role="button" aria-label="Go to slide 6"></span><span
+											class="swiper-pagination-bullet" tabindex="0" role="button"
+											aria-label="Go to slide 7"></span><span class="swiper-pagination-bullet"
+											tabindex="0" role="button" aria-label="Go to slide 8"></span><span
+											class="swiper-pagination-bullet" tabindex="0" role="button"
+											aria-label="Go to slide 9"></span></div><span class="swiper-notification"
+										aria-live="assertive" aria-atomic="true"></span>
+								</div>
+							</div>
+						</div>
+					</section>
+				</div>
+				<section class="cta-six thm-gray-bg"><img src="/assets/images/line-stripe-2.png" class="cta-six__line"
+						alt="">
+					<div class="container-fluid clearfix">
+						<div class="cta-six__left">
+							<div class="cta-six__content">
+								<div class="block-title text-left">
+									<h2 class="block-title__title">Start online learning anything</h2>
+								</div><img src="assets/images/fact-1-1.jpg" alt="">
+							</div>
+						</div>
+						<div class="cta-six__right"><img src="/assets/images/fact-1-2.jpg" alt="">
+							<h2 class="cta-six__title">More than <span class="counter"><span>0</span></span> students
+								are registered</h2>
+						</div>
+					</div>
+				</section>
+				<section class="testimonials-one testimonials-one__home-three">
+					<div class="container">
+						<div class="block-title text-center">
+							<h2 class="block-title__title">What our students <br>have to say</h2>
+						</div>
+						<div class="testimonials-one__carousel">
+							<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+								<div class="swiper-wrapper"
+									style="transform: translate3d(-1600px, 0px, 0px); transition-duration: 0ms;">
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="6"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority.</p><img
+												src="/assets/images/team-1-1.jpg" alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Sally Green</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="7"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form.</p><img src="/assets/images/team-1-2.jpg" alt=""
+												class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Iva Santos</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="8"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form, by injected humour.</p><img src="/assets/images/team-1-3.jpg"
+												alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Max Burns</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-prev" data-swiper-slide-index="0"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority.</p><img
+												src="/assets/images/team-1-1.jpg" alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Anne Hall</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-active" data-swiper-slide-index="1"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form.</p><img src="/assets/images/team-1-2.jpg" alt=""
+												class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Andre Obrien</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-next" data-swiper-slide-index="2"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form, by injected humour.</p><img src="/assets/images/team-1-3.jpg"
+												alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Shane Vasquez</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="3"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority.</p><img
+												src="/assets/images/team-1-4.jpg" alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Maud Lee</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="4"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form.</p><img src="/assets/images/team-1-5.jpg" alt=""
+												class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Barbara Kennedy</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="5"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form, by injected humour.</p><img src="/assets/images/team-1-6.jpg"
+												alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Duane Carter</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="6"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority.</p><img
+												src="/assets/images/team-1-1.jpg" alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Sally Green</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="7"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form.</p><img src="/assets/images/team-1-2.jpg" alt=""
+												class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Iva Santos</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item" data-swiper-slide-index="8"
+										style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form, by injected humour.</p><img src="/assets/images/team-1-3.jpg"
+												alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Max Burns</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-prev"
+										data-swiper-slide-index="0" style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority.</p><img
+												src="/assets/images/team-1-1.jpg" alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Anne Hall</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-active"
+										data-swiper-slide-index="1" style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form.</p><img src="/assets/images/team-1-2.jpg" alt=""
+												class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Andre Obrien</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-next"
+										data-swiper-slide-index="2" style="width: 370px; margin-right: 30px;">
+										<div class="testimonials-one__single">
+											<div class="testimonials-one__qoute"><img src="/assets/images/qoute-1-1.png"
+													alt=""></div>
+											<p class="testimonials-one__text">There are many variations of passages of
+												lore ipsu available but the majority have suffered alteration in some
+												form, by injected humour.</p><img src="/assets/images/team-1-3.jpg"
+												alt="" class="testimonials-one__img">
+											<h3 class="testimonials-one__name">Shane Vasquez</h3>
+											<p class="testimonials-one__designation">Student</p>
+										</div>
+									</div>
+								</div>
+								<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
+									<span class="swiper-pagination-bullet" tabindex="0" role="button"
+										aria-label="Go to slide 1"></span><span
+										class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0"
+										role="button" aria-label="Go to slide 2"></span><span
+										class="swiper-pagination-bullet" tabindex="0" role="button"
+										aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet"
+										tabindex="0" role="button" aria-label="Go to slide 4"></span><span
+										class="swiper-pagination-bullet" tabindex="0" role="button"
+										aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet"
+										tabindex="0" role="button" aria-label="Go to slide 6"></span><span
+										class="swiper-pagination-bullet" tabindex="0" role="button"
+										aria-label="Go to slide 7"></span><span class="swiper-pagination-bullet"
+										tabindex="0" role="button" aria-label="Go to slide 8"></span><span
+										class="swiper-pagination-bullet" tabindex="0" role="button"
+										aria-label="Go to slide 9"></span></div><span class="swiper-notification"
+									aria-live="assertive" aria-atomic="true"></span>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="video-three">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6">
+								<div class="row">
+									<div class="col-md-6">
+										<div class="video-three__fact thm-base-bg"><i class="kipso-icon-knowledge"></i>
+											<p class="video-three__fact-count counter"><span>0</span> </p>
+											<p class="video-three__fact-text">Courses &amp; Video</p>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="video-three__fact thm-base-bg-2"><i
+												class="kipso-icon-professor"></i>
+											<p class="video-three__fact-count counter"><span>0</span> </p>
+											<p class="video-three__fact-text">Expert Teachers</p>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-12">
+										<div class="video-three__image"><img src="/assets/images/fact-2-1.jpg"
+												class="img-fluid" alt=""></div>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="video-three__box">
+									<h2 class="video-three__title">Find out how <br>we help our <br>students</h2>
+									<div class="video-three__btn-box">
+										<div class="video-three__popup"><i class="fas fa-play"></i></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="brand-two ">
+					<div class="container">
+						<div class="block-title">
+							<h2 class="block-title__title">Our company &amp; partners</h2>
+						</div>
+						<div class="brand-one__carousel">
+							<div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+								<div class="swiper-wrapper"
+									style="transform: translate3d(-1332px, 0px, 0px); transition-duration: 0ms;">
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="5"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="6"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="7"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="8"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="9"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-prev" data-swiper-slide-index="0"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-active" data-swiper-slide-index="1"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-next" data-swiper-slide-index="2"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="3"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="4"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="5"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="6"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="7"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="8"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item" data-swiper-slide-index="9"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-prev"
+										data-swiper-slide-index="0" style="width: 192px; margin-right: 30px;"><img
+											src="assets/images/brand-1-1.png" alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-active"
+										data-swiper-slide-index="1" style="width: 192px; margin-right: 30px;"><img
+											src="assets/images/brand-1-1.png" alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate swiper-slide-duplicate-next"
+										data-swiper-slide-index="2" style="width: 192px; margin-right: 30px;"><img
+											src="assets/images/brand-1-1.png" alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="3"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+									<div class="swiper-slide item swiper-slide-duplicate" data-swiper-slide-index="4"
+										style="width: 192px; margin-right: 30px;"><img src="assets/images/brand-1-1.png"
+											alt=""></div>
+								</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="cta-five"><img src="/assets/images/team-1-1.jpg" class="cta-five__members-1" alt=""><img
+						src="/assets/images/team-1-2.jpg" class="cta-five__members-2" alt=""><img
+						src="/assets/images/team-1-3.jpg" class="cta-five__members-3" alt=""><img
+						src="/assets/images/team-1-4.jpg" class="cta-five__members-4" alt=""><img
+						src="/assets/images/team-1-5.jpg" class="cta-five__members-5" alt=""><img
+						src="/assets/images/team-1-6.jpg" class="cta-five__members-6" alt="">
+					<div class="cta-five__bubble-1"><i class="fas fa-rocket"></i></div>
+					<div class="cta-five__bubble-2"><i class="fas fa-bolt"></i></div>
+					<div class="container text-center">
+						<h2 class="cta-five__title">Start growing with <br>the community</h2>
+						<p class="cta-five__text">Duis aute irure dolor in reprehenderit in velit esse</p><a href="#"
+							class="thm-btn cta-five__btn">Learn More</a>
+					</div>
+				</section>
+				<div>
+					<footer class="site-footer">
+						<div class="site-footer__upper">
+							<div class="container">
+								<div class="row">
+									<div class="col-xl-3 col-lg-6 col-sm-12">
+										<div class="footer-widget footer-widget__contact">
+											<h2 class="footer-widget__title">Courses</h2>
+											<ul class="list-unstyled footer-widget__course-list">
+												<li>
+													<h2><a href="course-details.html">Introduction Web Design</a></h2>
+													<p>Mike Hardson</p>
+												</li>
+												<li>
+													<h2><a href="course-details.html"> Learning MBA Management </a></h2>
+													<p>Jessica Brown</p>
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-xl-3 col-lg-6 col-sm-12">
+										<div class="footer-widget footer-widget__link">
+											<h2 class="footer-widget__title">Explore</h2>
+											<div class="footer-widget__link-wrap">
+												<ul class="list-unstyled footer-widget__link-list">
+													<li><a href="#">About</a></li>
+													<li><a href="#">Overview</a></li>
+													<li><a href="#">Teachers</a></li>
+													<li><a href="#">Join Us</a></li>
+													<li><a href="#">Our News</a></li>
+												</ul>
+												<ul class="list-unstyled footer-widget__link-list">
+													<li><a href="#">Help </a></li>
+													<li><a href="#">Contact</a></li>
+													<li><a href="#">Register Now</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+									<div class="col-xl-3 col-lg-6 col-sm-12">
+										<div class="footer-widget footer-widget__gallery">
+											<h2 class="footer-widget__title">Gallery</h2>
+											<ul class="list-unstyled footer-widget__gallery-list">
+												<li><a href="#"><img src="/assets/images/footer-1-1.png" alt=""></a>
+												</li>
+												<li><a href="#"><img src="/assets/images/footer-1-2.png" alt=""></a>
+												</li>
+												<li><a href="#"><img src="/assets/images/footer-1-3.png" alt=""></a>
+												</li>
+												<li><a href="#"><img src="/assets/images/footer-1-4.png" alt=""></a>
+												</li>
+												<li><a href="#"><img src="/assets/images/footer-1-5.png" alt=""></a>
+												</li>
+												<li><a href="#"><img src="/assets/images/footer-1-6.png" alt=""></a>
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-xl-3 col-lg-6 col-sm-12">
+										<div class="footer-widget footer-widget__about">
+											<h2 class="footer-widget__title">About</h2>
+											<p class="footer-widget__text">Lorem ipsum dolor sit ametcon, sectetur
+												adipiscing elit. Phasellus vehic sagittis euismod.</p>
+											<div class="footer-widget__btn-block"><a href="#"
+													class="thm-btn">Contact</a><a href="#" class="thm-btn">Purchase</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="site-footer__bottom">
+							<div class="container">
+								<p class="site-footer__copy">© Copyright 2020 by <a href="#">Layerdrops.com</a></p>
+								<div class="site-footer__social">
+									<div class="scroll-to-target site-footer__scroll-top"><i
+											class="kipso-icon-top-arrow"></i></div><a href="#"><i
+											class="fab fa-twitter"></i></a><a href="#"><i
+											class="fab fa-facebook-square"></i></a><a href="#"><i
+											class="fab fa-pinterest-p"></i></a><a href="#"><i
+											class="fab fa-instagram"></i></a>
+								</div>
+							</div>
+						</div>
+					</footer>
+					<div class="search-popup">
+						<div class="search-popup__overlay custom-cursor__overlay search-overlay"></div>
+						<div class="search-popup__inner">
+							<form action="#" class="search-popup__form"><input type="text" name="search"
+									placeholder="Type here to Search...."><button type="submit"><i
+										class="kipso-icon-magnifying-glass"></i></button>
+								<div class="cancel"><i class="fas fa-times-circle"></i></div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<script src="/assets/plugins/bootstrap/jquery.min.js"></script>
+			<script src="/assets/plugins/bootstrap/bootstrap.min.js"></script>
+		</div>
+	</div>
+	<script id="__NEXT_DATA__"
+		type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"agIWMwmAuC6_vhQUG9Afp","runtimeConfig":{},"nextExport":true,"autoExport":true,"isFallback":false}</script>
+	<script nomodule="" src="/_next/static/runtime/polyfills-c0e011eba1c8c0f9284f.js"></script>
+	<script async="" data-next-page="/" src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index.js"></script>
+	<script async="" data-next-page="/_app" src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/_app.js"></script>
+	<script src="/_next/static/runtime/webpack-9369c5c69dbf6d4912cb.js" async=""></script>
+	<script src="/_next/static/chunks/framework.2689030919a9ba0449ff.js" async=""></script>
+	<script src="/_next/static/chunks/commons.ceaf506e42eea69867d7.js" async=""></script>
+	<script src="/_next/static/chunks/styles.6b75174053ded839d11d.js" async=""></script>
+	<script src="/_next/static/runtime/main-2b7f201882d40b0ce780.js" async=""></script>
+	<script src="/_next/static/chunks/a4c92b5b.b8b875e49990b13703a5.js" async=""></script>
+	<script src="/_next/static/chunks/ff73939d68d7e79f1e0f3ade21d95dd400a3a1cc.04a8c86fb488fd8e6f0d.js"
+		async=""></script>
+	<script src="/_next/static/chunks/08afed86d3fa7bd4ded233c88b82f6c63c41e408.cb0e017598de4268103f.js"
+		async=""></script>
+	<script src="/_next/static/chunks/b788f745097c13fe0fb56597fa921221422fea68.b0884a161c5426e4babd.js"
+		async=""></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/_buildManifest.js" async=""></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/_ssgManifest.js" async=""></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/teachers.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/teacher-details.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/become-teacher.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index-3.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/index-2.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/course-details.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/courses.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/contact.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/news.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/news-details.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/gallery.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/pricing.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/faq.js"></script>
+	<script src="/_next/static/agIWMwmAuC6_vhQUG9Afp/pages/about.js"></script>
+</body>
+
+</html>
